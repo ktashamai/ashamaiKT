@@ -18,12 +18,12 @@
 ### 🔸 Hybrid Automation Framework
 - Built using Selenium, Java, Maven, and TestNG
 - Supports data-driven and BDD approaches
-- [View Code](https://github.com/ashamaiKT/hybrid-framework)
+- [View Code](https://github.com/ktashamai/hybrid-framework)
 
 ### 🔸 API Testing Collection
 - Collection of API tests using REST Assured
 - Validates HTTP methods and response schema
-- [View Code](https://github.com/ashamaiKT/api-testing)
+- [View Code](https://github.com/ktashamai/api-testing)
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/ashamai-kandalu-thirubuvanathan-83b258248/)
