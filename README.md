@@ -23,7 +23,7 @@
 ### 🔸 API Testing Collection
 - Collection of API tests using REST Assured
 - Validates HTTP methods and response schema
-- [View Code](https://github.com/ktashamai/api-testing)
+- [View Code](https://github.com/ktashamai/hybrid-framework/tree/main/api_tests)
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/ashamai-kandalu-thirubuvanathan-83b258248/)
